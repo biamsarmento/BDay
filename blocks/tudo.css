@@ -53,12 +53,28 @@
     color: #fb6f92;
     font-family: "Inter", Arial, sans-serif;
     font-weight: 500;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 30px;
+    padding-top: 20px;
 }
 
 .gift-title {
     color: #fb6f92;
     font-family: "Inter", Arial, sans-serif;
     font-weight: 500;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+.gift-details {
+    color: #fb6f92;
+    font-family: "Inter", Arial, sans-serif;
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20px;
 }
 
 .gift-image {
