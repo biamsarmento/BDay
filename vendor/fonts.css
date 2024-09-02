@@ -16,17 +16,17 @@
 }
 
 @font-face {
-  font-family: "Sevillana", cursive;
-  font-weight: 400;
-  font-style: normal;
-
-  src: url("./fonts/Sevillana-Regular.ttf") format("truetype");
-}
-
-@font-face {
-  font-family: 'Nerko One', cursive;
+  font-family: 'Nerko';
   font-weight: 400;
   font-style: normal;
 
   src: url("./fonts/NerkoOne-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Comic';
+  font-weight: 400;
+  font-style: normal;
+
+  src: url("./fonts/ComicNeue-Regular.ttf") format("truetype");
 }
