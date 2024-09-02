@@ -1,11 +1,11 @@
 @font-face {
-    font-family: 'Inter';
-    font-style: normal;
-    /* font-weight: 100 900; */
-    font-display: swap;
-    /* src: url("InterVariable.woff2") format("woff2"); */
-    src: url("./fonts/InterVariable.woff2") format("woff2");
-  }
+  font-family: 'Inter';
+  font-style: normal;
+  /* font-weight: 100 900; */
+  font-display: swap;
+  /* src: url("InterVariable.woff2") format("woff2"); */
+  src: url("./fonts/InterVariable.woff2") format("woff2");
+}
 @font-face {
   font-family: 'Inter';
   font-style: italic;
@@ -21,4 +21,12 @@
   font-style: normal;
 
   src: url("./fonts/Sevillana-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Nerko One', cursive;
+  font-weight: 400;
+  font-style: normal;
+
+  src: url("./fonts/NerkoOne-Regular.ttf") format("truetype");
 }
